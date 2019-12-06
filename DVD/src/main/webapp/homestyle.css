@@ -1,0 +1,80 @@
+@charset "ISO-8859-1";
+
+
+
+.layout{
+    padding: 0;
+}
+#header1 {
+    background-color:#041e42;
+    
+    
+    
+}
+.page {
+    margin-top: 150px;
+    margin-left: 200px;
+}
+.f1{
+    font: 25px Quicksand;
+}
+
+#searchbardd{
+    margin-top: 10px;
+}
+
+#btnsearch1{
+    border-radius: 0px 10px 10px 0px;
+    font-size: 16px;
+    padding: 6px;
+    height:34px;
+    border:2px solid teal;
+    position: absolute;
+	left: 84%;
+	top: 8px;
+}
+#lgf{
+    min-width: 250px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.btn-group {
+    display: flex;
+}
+#genere{
+    font-size: 25px;
+}
+
+select {
+   
+}
+
+#viewbtn{
+	background-color: red;
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius:10px;
+  
+}
+#viewbtn:hover {
+  background-color: #555;
+}
+
+
+
+
+<!-- items -->
+
+.card {
+	width: 200px;
+	float: left;
+	padding: 20px;
+	display:inline-block;
+}
+.card-wrap {
+	width:100%;
+}
+
+

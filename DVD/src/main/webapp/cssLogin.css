@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+.title{
+	text-align: center;
+	font-family: sans-serif;
+}
+.left{
+	padding: 0;
+}
+.right{
+	padding-right: 5%;
+	padding-left: 5%;
+}
+label{
+	color: white;
+}
+img{
+	width: inherit;
+}
+.spring_exc{
+	color: red;
+	font-size: 120%;
+	text-align: center;
+}
+.sign{
+	text-align: center;
+	color: gold;
+	text-decoration: none;
+}
